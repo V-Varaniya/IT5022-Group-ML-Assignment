@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Naive Bayes,0.975,0.962962963,1,0.981132075,0.964285714
